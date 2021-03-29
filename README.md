@@ -10,3 +10,4 @@ Conv Dim : 3x3,4x4 \
 Which is 2^5=32 total combinations.
 If u want to train the same model, u need to run the "data preprocessing.py" file to create the X.pickle and y.pickle files and train the model using "main.py".
 Alternatively, u can use the saved model located in the "128x3_CNN.model" file.
+For this project i used my gpu, which at present is a GTX 1050ti. All the models together took me about one and a half hours. If you want you can try google colab to run it.
