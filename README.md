@@ -1,6 +1,6 @@
 # CNN-for-cats-and-dogs-img-classification
 
-This project was inspired by sendex. I tried many different configurations for my CNN model to classify cat and dog images. 
+This project was inspired by sendex. I tried many different configurations for my CNN model to classify cat and dog images. The data i used can be found in kaggle.
 I tried making this CNN with all the following configurations:\
 Number of Conv Layers : 2,3 \
 Number of Dense Layers: 1,2 \
